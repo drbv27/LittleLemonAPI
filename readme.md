@@ -256,7 +256,7 @@ Para detener el servidor, vuelve a la terminal y presiona `Ctrl + C`.
 📚 Origen del Proyecto
 Este proyecto se basa en el material y los ejercicios del curso:
 
-[Meta Django Web Framework en Coursera](https://www.coursera.org/learn/django-web-framework-es)
+[Meta Django Web Framework en Coursera](https://www.coursera.org/learn/apis-es)
 
 ## 📫 Contacto
 
