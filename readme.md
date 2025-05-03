@@ -188,9 +188,8 @@ Sigue estos pasos para poner en marcha el proyecto en tu máquina local. Estas i
 Primero, clona este repositorio en tu máquina local:
 
 ```bash
-# Clonar repositorio
-git clone [https://github.com/tu-usuario/tu-repositorio.git](https://github.com/tu-usuario/tu-repositorio.git)
-cd tu-repositorio
+git clone [https://github.com/drbv27/LittleLemonAPI.git](https://github.com/drbv27/LittleLemonAPI.git)
+cd LittleLemonAPI
 ```
 
 **2. Crear y Activar un entorno Virtual**
